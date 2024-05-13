@@ -1,27 +1,56 @@
 [
-    {
-      "title": "Website",
-      "url": "https://mochain.app"
-    },
-    {
-      "title": "Docs",
-      "url": "https://modocs.app"
-    },
-    {
-      "title": "Mainnet Explorer",
-      "url": "https://moscan.app"
-    },
-    {
-      "title": "Testnet Explorer",
-      "url": "https://motestnet.app"
-    },
-    {
-      "title": "Twitter",
-      "url": "https://twitter.com/0xmochain"
-    },
-    {
-      "title": "Telegram",
-      "url": "https://t.me/mochain_official"
-    }
-  ]
-  
+  {
+    "title": "Website",
+    "links": [
+      {
+        "text": "Website",
+        "url": "https://mochain.app"
+      }
+    ]
+  },
+  {
+    "title": "Docs",
+    "links": [
+      {
+        "text": "Docs",
+        "url": "https://modocs.app"
+      }
+    ]
+  },
+  {
+    "title": "Mainnet Explorer",
+    "links": [
+      {
+        "text": "Mainnet Explorer",
+        "url": "https://moscan.app"
+      }
+    ]
+  },
+  {
+    "title": "Testnet Explorer",
+    "links": [
+      {
+        "text": "Testnet Explorer",
+        "url": "https://motestnet.app"
+      }
+    ]
+  },
+  {
+    "title": "Twitter",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/0xmochain"
+      }
+    ]
+  },
+  {
+    "title": "Telegram",
+    "links": [
+      {
+        "text": "Telegram",
+        "url": "https://t.me/mochain_official"
+      }
+    ]
+  }
+]
